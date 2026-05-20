@@ -1,0 +1,17 @@
+scenario_id,domain,task,assistant,speaker,turns,mean_t_min,mean_joy,mean_trust,mean_fear,mean_anger,mean_sadness,mean_disgust,mean_surprise,mean_anticipation,mean_positive,mean_negative
+Task 2.2 gpt,Education,Presentation anxiety support,ChatGPT,Chat GPT,9,5.0,0.0812,0.09946,0.08344,0.04536,0.0527,0.03534,0.03482,0.17156,0.2798,0.11633
+Task 2.2 gpt,Education,Presentation anxiety support,ChatGPT,User,9,5.0,0.05783,0.10725,0.08174,0.01852,0.0,0.0,0.0,0.13756,0.16864,0.09513
+Task 2.2 Wysa,Education,Presentation anxiety support,Wysa,User,16,5.0,0.03333,0.10777,0.03636,0.0,0.0,0.0,0.0,0.10814,0.17803,0.03636
+Task 2.2 Wysa,Education,Presentation anxiety support,Wysa,wysa,20,5.0,0.05996,0.07671,0.06575,0.01967,0.03932,0.04321,0.02204,0.197,0.36423,0.06212
+Task 2.1 gpt,Healthcare,Sleep schedule support,ChatGPT,Chat GPT,17,5.0,0.07384,0.12368,0.03753,0.01708,0.06354,0.01423,0.0317,0.23034,0.27956,0.1285
+Task 2.1 gpt,Healthcare,Sleep schedule support,ChatGPT,User,17,5.0,0.0084,0.15798,0.02941,0.02451,0.0598,0.00588,0.0,0.13193,0.31933,0.08627
+Task 2.1 Wysa,Healthcare,Sleep schedule support,Wysa,User,24,5.0,0.02158,0.2626,0.0,0.0,0.00937,0.00417,0.00521,0.13929,0.14945,0.03333
+Task 2.1 Wysa,Healthcare,Sleep schedule support,Wysa,wysa,24,5.0,0.08904,0.09181,0.01343,0.03113,0.04879,0.00181,0.06916,0.16351,0.37861,0.07104
+Task3.1 Booking,Travel & Tourism,Budget itinerary recommendation,Booking Assistant,Booking,10,5.0,0.12803,0.19008,0.02292,0.00313,0.01477,0.002,0.08194,0.13832,0.40523,0.01358
+Task3.1 Booking,Travel & Tourism,Budget itinerary recommendation,Booking Assistant,User,10,5.0,0.05977,0.28989,0.06012,0.01429,0.04857,0.02,0.045,0.0825,0.25307,0.02679
+Task3.2 Booking,Travel & Tourism,Hotel delay/refund advice,Booking Assistant,Booking,10,5.0,0.12803,0.19008,0.02292,0.00313,0.01477,0.002,0.08194,0.13832,0.40523,0.01358
+Task3.2 Booking,Travel & Tourism,Hotel delay/refund advice,Booking Assistant,User,10,5.0,0.05977,0.28989,0.06012,0.01429,0.04857,0.02,0.045,0.0825,0.25307,0.02679
+Task 3.2 gemini,Travel & Tourism,Hotel delay/refund advice,Gemini,Gemini,9,5.0,0.05506,0.17824,0.06659,0.07366,0.06677,0.03897,0.04236,0.11391,0.21812,0.14632
+Task 3.2 gemini,Travel & Tourism,Hotel delay/refund advice,Gemini,User,9,5.0,0.09303,0.15256,0.01587,0.02469,0.01235,0.0,0.04012,0.01235,0.38668,0.04012
+Task 3.1 gemini,Travel & Tourism,Museum itinerary recommendation,Gemini,Gemini,13,5.0,0.10296,0.14428,0.03579,0.03633,0.04841,0.01129,0.05532,0.11284,0.30736,0.0685
+Task 3.1 gemini,Travel & Tourism,Museum itinerary recommendation,Gemini,User,13,5.0,0.06154,0.18407,0.01099,0.01099,0.02198,0.0,0.04615,0.06538,0.2033,0.01099

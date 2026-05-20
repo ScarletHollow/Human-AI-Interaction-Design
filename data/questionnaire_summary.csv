@@ -1,0 +1,31 @@
+domain,assistant,dimension,score
+Healthcare,ChatGPT,Trust,4.33
+Healthcare,ChatGPT,Empathy,4.0
+Healthcare,ChatGPT,Effectiveness,4.33
+Healthcare,ChatGPT,User Experience,4.0
+Healthcare,ChatGPT,Safety,4.67
+Healthcare,Wysa,Trust,4.0
+Healthcare,Wysa,Empathy,4.33
+Healthcare,Wysa,Effectiveness,3.67
+Healthcare,Wysa,User Experience,3.67
+Healthcare,Wysa,Safety,4.33
+Education,ChatGPT,Trust,4.0
+Education,ChatGPT,Empathy,3.67
+Education,ChatGPT,Effectiveness,4.33
+Education,ChatGPT,User Experience,4.0
+Education,ChatGPT,Safety,4.33
+Education,Wysa,Trust,3.67
+Education,Wysa,Empathy,4.0
+Education,Wysa,Effectiveness,3.67
+Education,Wysa,User Experience,3.67
+Education,Wysa,Safety,4.0
+Travel & Tourism,Gemini,Trust,3.67
+Travel & Tourism,Gemini,Empathy,4.0
+Travel & Tourism,Gemini,Effectiveness,4.33
+Travel & Tourism,Gemini,User Experience,4.0
+Travel & Tourism,Gemini,Safety,4.67
+Travel & Tourism,Booking Assistant,Trust,3.33
+Travel & Tourism,Booking Assistant,Empathy,3.0
+Travel & Tourism,Booking Assistant,Effectiveness,3.67
+Travel & Tourism,Booking Assistant,User Experience,3.33
+Travel & Tourism,Booking Assistant,Safety,3.67
